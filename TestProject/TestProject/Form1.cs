@@ -16,5 +16,10 @@ namespace TestProject
         {
             InitializeComponent();
         }
+
+        public bool checkData(bool check)
+        {
+            return check;
+        }
     }
 }
