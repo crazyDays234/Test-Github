@@ -21,5 +21,9 @@ namespace TestProject
         {
             return check;
         }
+        public void newBranchMethod(void)
+        {
+            Console.WriteLine("New branch");
+        }
     }
 }
